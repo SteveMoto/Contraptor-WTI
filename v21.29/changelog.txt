@@ -1,1 +1,10 @@
-.
+Contraptor-WTI (White Tie Imperial)
+
+FHD - v21.29
+
+- Removed: Options / Layout / Master Mixer Panel / z1 - Dead Ringer Colonial 4000XL PRO
+- Removed: Options / Layout / Master Mixer Panel / Master from the master
+- Removed: Options / Layout / Mixer Panel / z1 - Dead Ringer Colonial 4000XL PRO
+- Replaces: standard mixer fader buttons: silver, blue, green, red, black
+- Replaces: strip mixer fader buttons: silver, yellow
+- Corrected: mixer fader scaling 
