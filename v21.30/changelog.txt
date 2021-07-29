@@ -2,8 +2,6 @@ Contraptor-WTI (White Tie Imperial)
 
 FHD - v21.30
 
-Download: https://github.com/SteveMoto/Contraptor-WTI/
-
 - New: Options / Layout / Track Panel / Separator
 - New: Options / Layout / Mixer Panel / Separator
 - New: Options / Layout / Mixer Panel / Default / Black Fader
@@ -14,3 +12,5 @@ Download: https://github.com/SteveMoto/Contraptor-WTI/
 - New: Options / Layout / Mixer Panel / Default Slim / Red Fader
 - New: Options / Layout / Mixer Panel / Default Slim / Green Fader
 - New: Options / Layout / Mixer Panel / Default Slim / Yellow Fader
+
+Download: https://github.com/SteveMoto/Contraptor-WTI/
