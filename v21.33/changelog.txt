@@ -1,0 +1,26 @@
+Contraptor-WTI (White Tie Imperial)
+
+FHD - v21.33
+
+- New: Options / Layout / Mixer Panel / Dark Separator Default
+- New: Options / Layout / Mixer Panel / Dark Separator Wide
+- New: Options / Layout / Mixer Panel / Darker Separator Default
+- New: Options / Layout / Mixer Panel / Darker Separator Wide
+
+- New: Options / Layout / Mixer Panel / Default / IO-Button
+- New: Options / Layout / Mixer Panel / Default Slim / IO-Button
+- New: Options / Layout / Mixer Panel / Dark / IO-Button
+- New: Options / Layout / Mixer Panel / Darker Slim / IO-Button
+- New: Options / Layout / Mixer Panel / Sidecar / IO-Button
+- New: Options / Layout / Mixer Panel / Tracking Deck / IO-Button
+- New: Options / Layout / Master Mixer Panel / Default/ Output-Button
+- New: Options / Layout / Master Mixer Panel / Longthrow / Output-Button
+- New: Options / Layout / Master Mixer Panel / Master of the Universe / Output-Button
+
+- New: Options / Layout / Mixer Panel / Default / Input FX-Button + LED
+- New: Options / Layout / Mixer Panel / Dark / Input FX-Button + LED
+- New: Options / Layout / Mixer Panel / Darker / Input FX-Button + LED
+- New: Options / Layout / Mixer Panel / Sidecar / Input FX-Button + LED
+- New: Options / Layout / Mixer Panel / Tracking Deck / Input FX-Button + LED
+
+Download: https://github.com/SteveMoto/Contraptor-WTI/
