@@ -1,0 +1,34 @@
+Contraptor-WTI (White Tie Imperial)
+
+FHD - v21.34
+
+- New: Options / Layout / Master Mixer Panel / Default/ FX-Button
+- New: Options / Layout / Master Mixer Panel / Longthrow / FX-Button
+- New: Options / Layout / Master Mixer Panel / Master of the Universe / FX-Button
+- New: Options / Layout / Master Mixer Panel / Default/ FX-Bypass-Button
+- New: Options / Layout / Master Mixer Panel / Longthrow / FX-Bypass-Button
+- New: Options / Layout / Master Mixer Panel / Master of the Universe / FX-Bypass-Button
+
+- New: Options / Layout / Mixer Panel / Default / FX-Button
+- New: Options / Layout / Mixer Panel / Dark / FX-Button
+- New: Options / Layout / Mixer Panel / Darker / FX-Button
+- New: Options / Layout / Mixer Panel / Sidecar / FX-Button
+- New: Options / Layout / Mixer Panel / Tracking Deck / FX-Button
+- New: Options / Layout / Mixer Panel / Default / FX-Bypass-Button
+- New: Options / Layout / Mixer Panel / Dark / FX-Bypass-Button
+- New: Options / Layout / Mixer Panel / Darker / FX-Bypass-Button
+- New: Options / Layout / Mixer Panel / Sidecar / FX-Bypass-Button
+- New: Options / Layout / Mixer Panel / Tracking Deck / FX-Bypass-Button
+- New: Options / Layout / Mixer Panel / Default / Monitor-Button
+- New: Options / Layout / Mixer Panel / Dark / Monitor-Button
+- New: Options / Layout / Mixer Panel / Darker / Monitor-Button
+- New: Options / Layout / Mixer Panel / Sidecar / Monitor-Button
+- New: Options / Layout / Mixer Panel / Tracking Deck / Monitor-Button
+
+- New: Options / Layout / Mixer Panel / Default / Solo-Button
+- New: Options / Layout / Mixer Panel / Dark / Solo-Button
+- New: Options / Layout / Mixer Panel / Darker / Solo-Button
+- New: Options / Layout / Mixer Panel / Sidecar / Solo-Button
+- New: Options / Layout / Mixer Panel / Tracking Deck / ARM-Button
+
+Download: https://github.com/SteveMoto/Contraptor-WTI/
