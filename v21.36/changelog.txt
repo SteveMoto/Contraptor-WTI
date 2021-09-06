@@ -1,0 +1,24 @@
+Contraptor-WTI (White Tie Imperial)
+
+FHD - v21.36
+
+- Edit: Options / Layout / Mixer Panel / Default / Env Font + Color
+- Edit: Options / Layout / Mixer Panel / Dark / Env Font + Color
+- Edit: Options / Layout / Mixer Panel / Darker / Env Font + Color
+- New: Options / Layout / Mixer Panel / Sidecar / Env Button + Font + Color
+
+- New: Options / Layout / Mixer Panel / Default / Display Gain
+- New: Options / Layout / Mixer Panel / Default Slim / Display Gain
+- New: Options / Layout / Mixer Panel / Dark / Display Gain
+- New: Options / Layout / Mixer Panel / Dark Slim / Display Gain
+- New: Options / Layout / Mixer Panel / Darker / Display Gain
+- New: Options / Layout / Mixer Panel / Darker Slim / Display Gain
+
+- New: Options / Layout / Mixer Panel / Default / VU Meter Route LEDs
+- New: Options / Layout / Mixer Panel / Default Slim / VU Meter Route LEDs
+- New: Options / Layout / Mixer Panel / Dark / VU Meter Route LEDs
+- New: Options / Layout / Mixer Panel / Dark Slim / VU Meter Route LEDs
+- New: Options / Layout / Mixer Panel / Darker / VU Meter Route LEDs
+- New: Options / Layout / Mixer Panel / Darker Slim / VU Meter Route LEDs
+
+Download: https://github.com/SteveMoto/Contraptor-WTI/
